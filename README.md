@@ -9,6 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Lê Vũ Hoàng 
+* Student Name: Lê Vũ Hoàng
 * Student ID: BA11-046
 * Group: G1
+
