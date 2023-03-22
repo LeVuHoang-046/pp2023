@@ -55,7 +55,7 @@ class School:
                 mark = float(input(f"Enter mark for {self._students[student].getSt_name()}: "))
                 if student not in self._marks:
                     self._marks[student] = {}
-                    self._marks[student][course_ID] = mark
+                self._marks[student][course_ID] = mark
     
     #show student
     def list_st(self):
